@@ -51,4 +51,4 @@
 - 29/07/2020 - Networking e Marketing Pessoal para Bibliotecários, pelo Grupo de Profissionais em Informação e Documentação Jurídica do Rio de Janeiro
 (GIDJ/RJ).
 - 28/05/2020 - Iniciei minha pós-graduação em Gestão da Tecnologia da Informação.
-- 02/12/2019 - "Seminário sobre Processamento de Linguagem Natural", Instituto Serzedello Corrêa (TCU).
+- 02/12/2019 - Seminário sobre Processamento de Linguagem Natural, Instituto Serzedello Corrêa (TCU).
