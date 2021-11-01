@@ -40,13 +40,13 @@
 - 21/12/2020 - 5º: [HTML5 e CSS3 parte 4: Avançando no CSS](https://cursos.alura.com.br/certificate/TATIMES-ALMEIDA/html5-css3-avancando-css).
 - 09/12/2020 - 4º: [HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas](https://cursos.alura.com.br/certificate/TATIMES-ALMEIDA/html5-css3-formularios-tabelas). 
 - 19/10/2020 - 3º: [HTML5 e CSS3 parte 2: Posicionamento, listas e navegação](https://cursos.alura.com.br/certificate/TATIMES-ALMEIDA/html5-css3-posicionamento-listas-navegacao). 
-- 14/10/2020 - 2º: ["HTML5 e CSS3 parte 1: A primeira página na web"](https://cursos.alura.com.br/certificate/TATIMES-ALMEIDA/html5-css3-primeiros-passos). 
+- 14/10/2020 - 2º: [HTML5 e CSS3 parte 1: A primeira página na web](https://cursos.alura.com.br/certificate/TATIMES-ALMEIDA/html5-css3-primeiros-passos). 
 - 13/09/2020 - 1º: Semana Bot, desenvolvimento de chatbots, realizando um hands-on no IBM Watson, pela Lets Bot.
 
 --   
 ### 🔹 First steps
 
-- 30/08/2020 - Realizei o curso online Eu ProgrAmo sobre HTML, CSS e JavaScript e montei meu primeiro projeto na [Programaria](https://siteada--taguinara.repl.co/).
+- 30/08/2020 - Curso online Eu ProgrAmo sobre HTML, CSS e JavaScript e montei meu primeiro projeto na [Programaria](https://siteada--taguinara.repl.co/).
 - 21/06/2020 - Inteligência Artificial para negócios [StartSe](https://online.startse.com/certificates/bubxuucmx6).
 - 29/07/2020 - Networking e Marketing Pessoal para Bibliotecários, pelo Grupo de Profissionais em Informação e Documentação Jurídica do Rio de Janeiro
 (GIDJ/RJ).
