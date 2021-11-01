@@ -7,7 +7,7 @@
 ### 🔹 Eventos Desenvolvimento Web (Front e Back-End), IA e Data Science.
 
 - 28/10/2021 - Curso de Dados Abertos, Social Data BR.
-- 21/10/2021 - VII Seminário Internacional sobre Análise de Dados na Administração Pública, TCU.
+- 21/10/2021 - VII Seminário Internacional sobre Análise de Dados na Administração Pública, pelo Instituto Serzedello Corrêa (TCU).
 - 01/10/2021 - Pocket Bootcamp UX Design, Santander Digital.
 - 28/09/2021 - Programação de IAs Conversacionais do Cappacita Dev, SMARKIO.
 - 02/08/2021 - Cappacita Dev: Fase From Zero, SMARKIO.
