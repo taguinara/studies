@@ -6,10 +6,7 @@
 
 ### 🔹 Eventos Desenvolvimento Web (Front e Back-End), IA e Data Science.
 
-- 28/10/2021 - Curso de Dados Abertos, Social Data BR.
-- 21/10/2021 - VII Seminário Internacional sobre Análise de Dados na Administração Pública, pelo Instituto Serzedello Corrêa (TCU).
-- 01/10/2021 - Pocket Bootcamp UX Design, Santander Digital.
-- 28/09/2021 - Programação de IAs Conversacionais do Cappacita Dev, SMARKIO.
+- 21/10/2021 - VII Seminário Internacional sobre Análise de Dados na Administração Pública, Instituto Serzedello Corrêa (TCU).
 - 02/08/2021 - Cappacita Dev: Fase From Zero, SMARKIO.
 - 28/07/2021 - Webinar Machine Learning, EMPOWER.
 - 27/07/2021 - Festival de Inverno: Aplicações de Big Data e Inteligência Artificial para People Analytics, LABDATA - FIA.
@@ -31,17 +28,20 @@
 --
 ### 🔹 Cursos realizados
 
-- 19/08/2021 - 10º: ["Rest com Node.js: API com Express e Mysql"](https://cursos.alura.com.br/certificate/4940a1b8-b3ba-4929-8d30-8361ef8f891a).
-- 09/07/2021 - 9º: ['Big Data - Business realizado pela Semantix"](https://badgr.com/public/assertions/F_ID3Z5vRfuivCMjUWsbfQ).
-- 17/01/2021 - 8º: ["SQL Server: Introdução ao SQL com Microsoft SQL Server 2017"](https://cursos.alura.com.br/certificate/TATIMES-ALMEIDA/sql-com-sql-server-2017).
-- 11/01/2021 - 7º: ["Data Science: Primeiros passos"](https://cursos.alura.com.br/certificate/TATIMES-ALMEIDA/data-science-primeiros-passos).
-- 07/08/2020 - 6º: ["Modelagem de banco de dados relacional: Entidades, relacionamentos e atributos"](https://cursos.alura.com.br/certificate/TATIMES-ALMEIDA/modelagem-banco-relacional-entidade-relacionamento-atributo).
-- 26/12/2020 - 5º: ["Acessibilidade web: introdução a designs inclusivos"](https://cursos.alura.com.br/certificate/TATIMES-ALMEIDA/acessibilidade-web-design-inclusivos). 
-- 21/12/2020 - 4º: ["HTML5 e CSS3 parte 4: Avançando no CSS"](https://cursos.alura.com.br/certificate/TATIMES-ALMEIDA/html5-css3-avancando-css).
-- 09/12/2020 - 3º: ["HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas"](https://cursos.alura.com.br/certificate/TATIMES-ALMEIDA/html5-css3-formularios-tabelas). 
-- 19/10/2020 - 2º: ["HTML5 e CSS3 parte 2: Posicionamento, listas e navegação"](https://cursos.alura.com.br/certificate/TATIMES-ALMEIDA/html5-css3-posicionamento-listas-navegacao). 
-- 14/10/2020 - 1º: ["HTML5 e CSS3 parte 1: A primeira página na web"](https://cursos.alura.com.br/certificate/TATIMES-ALMEIDA/html5-css3-primeiros-passos). 
-- 13/09/2020 - Semana Bot, desenvolvimento de chatbots, realizando um hands-on no IBM Watson, pela Lets Bot.
+- 28/10/2021 - 14º: Curso de Dados Abertos, Social Data BR.
+- 01/10/2021 - 13º: Pocket Bootcamp UX Design, Santander Digital.
+- 28/09/2021 - 12º: Programação de IAs Conversacionais do Cappacita Dev, SMARKIO.
+- 19/08/2021 - 11º: [Rest com Node.js: API com Express e Mysql](https://cursos.alura.com.br/certificate/4940a1b8-b3ba-4929-8d30-8361ef8f891a).
+- 09/07/2021 - 10º: [Big Data - Business realizado pela Semantix](https://badgr.com/public/assertions/F_ID3Z5vRfuivCMjUWsbfQ).
+- 17/01/2021 - 9º: [SQL Server: Introdução ao SQL com Microsoft SQL Server 2017](https://cursos.alura.com.br/certificate/TATIMES-ALMEIDA/sql-com-sql-server-2017).
+- 11/01/2021 - 8º: [Data Science: Primeiros passos](https://cursos.alura.com.br/certificate/TATIMES-ALMEIDA/data-science-primeiros-passos).
+- 07/08/2020 - 7º: [Modelagem de banco de dados relacional: Entidades, relacionamentos e atributos](https://cursos.alura.com.br/certificate/TATIMES-ALMEIDA/modelagem-banco-relacional-entidade-relacionamento-atributo).
+- 26/12/2020 - 6º: [Acessibilidade web: introdução a designs inclusivos](https://cursos.alura.com.br/certificate/TATIMES-ALMEIDA/acessibilidade-web-design-inclusivos). 
+- 21/12/2020 - 5º: [HTML5 e CSS3 parte 4: Avançando no CSS](https://cursos.alura.com.br/certificate/TATIMES-ALMEIDA/html5-css3-avancando-css).
+- 09/12/2020 - 4º: [HTML5 e CSS3 parte 3: Trabalhando com formulários e tabelas](https://cursos.alura.com.br/certificate/TATIMES-ALMEIDA/html5-css3-formularios-tabelas). 
+- 19/10/2020 - 3º: [HTML5 e CSS3 parte 2: Posicionamento, listas e navegação](https://cursos.alura.com.br/certificate/TATIMES-ALMEIDA/html5-css3-posicionamento-listas-navegacao). 
+- 14/10/2020 - 2º: ["HTML5 e CSS3 parte 1: A primeira página na web"](https://cursos.alura.com.br/certificate/TATIMES-ALMEIDA/html5-css3-primeiros-passos). 
+- 13/09/2020 - 1º: Semana Bot, desenvolvimento de chatbots, realizando um hands-on no IBM Watson, pela Lets Bot.
 
 --   
 ### 🔹 First steps
@@ -51,4 +51,4 @@
 - 29/07/2020 - Networking e Marketing Pessoal para Bibliotecários, pelo Grupo de Profissionais em Informação e Documentação Jurídica do Rio de Janeiro
 (GIDJ/RJ).
 - 28/05/2020 - Iniciei minha pós-graduação em Gestão da Tecnologia da Informação.
-- 02/12/2019 - "Seminário sobre Processamento de Linguagem Natural", pelo Instituto Serzedello Corrêa (TCU).
+- 02/12/2019 - "Seminário sobre Processamento de Linguagem Natural", Instituto Serzedello Corrêa (TCU).
